@@ -1,0 +1,11 @@
+movieId,title,genres,similarity_score,avg_rating,num_ratings
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,0.9999999999999999,3.88,2908
+3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,0.9999999999999999,3.84,2795
+4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,0.9999999999999999,3.62,724
+2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,0.9999999999999999,3.34,1275
+53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,0.9999999999999999,3.13,289
+3754,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,0.9999999999999999,2.2,181
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,0.9128709291752769,4.02,719
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,0.9128709291752769,3.83,3994
+108932,The Lego Movie (2014),Action|Adventure|Animation|Children|Comedy|Fantasy,0.9128709291752769,3.71,163
+78637,Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,0.9128709291752769,3.32,93
