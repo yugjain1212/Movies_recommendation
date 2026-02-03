@@ -461,7 +461,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Portfolio: https://portfolio-yug-one-212.vercel.app
 
 
-**Project Link**: [https://github.com/yourusername/movie-recommender](https://github.com/yugjain1212/movie-recommender)
+**Project Link**: [https://github.com/yugjain1212/movie-recommender](https://github.com/yugjain1212/movie-recommender)
 
 ---
 
