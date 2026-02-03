@@ -455,12 +455,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: yugjain7373@gmail.com
+- LinkedIn: www.linkedin.com/in/yug-jain-yj12
+- GitHub: https://github.com/yugjain1212
+- Portfolio: https://portfolio-yug-one-212.vercel.app
 
-**Project Link**: [https://github.com/yourusername/movie-recommender](https://github.com/yourusername/movie-recommender)
+
+**Project Link**: [https://github.com/yourusername/movie-recommender](https://github.com/yugjain1212/movie-recommender)
 
 ---
 
