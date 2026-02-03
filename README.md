@@ -555,4 +555,4 @@ Recommendations:
 
 **⭐ If you found this project helpful, please give it a star!**
 
-Made with ❤️ and ☕ by [Your Name]
+Made with ❤️ and ☕ by Yug jain
